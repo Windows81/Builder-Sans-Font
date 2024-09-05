@@ -1,17 +1,17 @@
 {
-	"name": "Amatic SC",
+	"name": "Arimo (Legacy)",
 	"faces": [
 		{
 			"name": "Regular",
 			"weight": 400,
 			"style": "normal",
-			"assetId": "rbxasset://fonts/AmaticSC-Regular.ttf"
+			"assetId": "rbxasset://fonts/Arimo-Regular.ttf"
 		},
 		{
 			"name": "Bold",
 			"weight": 700,
 			"style": "normal",
-			"assetId": "rbxasset://fonts/AmaticSC-Bold.ttf"
+			"assetId": "rbxasset://fonts/Arimo-Bold.ttf"
 		}
 	]
 }
